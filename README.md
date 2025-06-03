@@ -1,5 +1,5 @@
-# Ignis OS
-## What is Ignis?
+# Small OS
+## What is this?
 Ignis is an open source hobby OS meant to gain experience with low level concepts and implementations. Note that this is not a Linux distribution, but rather a kernel written from scratch
 
 ## Technical Description
@@ -22,10 +22,8 @@ Ignis is an open source hobby OS meant to gain experience with low level concept
 ### Getting Started
 **Steps**:
 - Install build dependencies.
-- Clone the repo with `git clone https://github.com/jkelley129/IGNIS-OS.git && cd IGNIS-OS`
+- Clone the repo with `git clone https://github.com/user-jaywyang/small-OS && cd small-OS`
 - Compile and package the project with `make` or `make all`
   - The `Makefile` creates a ignis.iso file in iso/boot/ that is emulated by QEMU
 - Run the QEMU emulator with `make run` or `make run_debug`
 
-## Contributing
-### Just make a pull request
