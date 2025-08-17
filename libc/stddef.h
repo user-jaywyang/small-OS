@@ -1,4 +1,4 @@
-#ifndef _STDDEF_H
+#ifndef _STDDEF_H 
 #define _STDDEF_H
 
 #ifdef __cplusplus

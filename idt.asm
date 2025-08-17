@@ -2,7 +2,7 @@ section .text
 global idt_load
 global irq0
 global irq1
-global irq_default
+global irq_default 
 extern keyboard_handler
 extern pit_handler
 

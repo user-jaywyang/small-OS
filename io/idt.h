@@ -1,5 +1,5 @@
 #ifndef IDT_H
-#define IDT_H
+#define IDT_H 
 
 #include "../libc/stdint.h"
 

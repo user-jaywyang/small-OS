@@ -121,7 +121,7 @@ typedef unsigned long long uintmax_t;
 #define SIG_ATOMIC_MAX INT32_MAX
 
 #define WCHAR_MIN 0
-#define WCHAR_MAX UINT16_MAX
+#define WCHAR_MAX UINT16_MAX 
 
 #define WINT_MIN 0
 #define WINT_MAX UINT16_MAX

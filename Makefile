@@ -1,5 +1,5 @@
 CC = gcc
-LD = ld
+LD = ld 
 NASM = nasm
 GRUB_CREATE_ISO = grub-mkrescue
 

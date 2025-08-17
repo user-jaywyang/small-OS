@@ -1,4 +1,4 @@
-#ifndef VGA_H
+#ifndef VGA_H 
 #define VGA_H
 
 #include "../libc/stdint.h"

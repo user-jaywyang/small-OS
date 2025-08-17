@@ -1,4 +1,4 @@
-#include "vga.h"
+#include "vga.h" 
 #include "../libc/string.h"
 // Cast to uint64_t first, then to pointer (avoids warnings)
 static uint16_t* vga_buffer = (uint16_t*)(uint64_t)VGA_MEMORY;

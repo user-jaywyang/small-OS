@@ -1,4 +1,4 @@
-#ifndef VFS_H
+#ifndef VFS_H 
 #define VFS_H
 
 #include "../libc/stdint.h"

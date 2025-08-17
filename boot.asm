@@ -1,5 +1,5 @@
   ; boot.asm
-section .multiboot
+section .multiboot 
 align 8
 multiboot_header:
     dd 0xE85250D6         ; magic
